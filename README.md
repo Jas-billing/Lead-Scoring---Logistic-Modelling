@@ -1,4 +1,4 @@
-# Lead-Scoring---Logistic-Modelling
+# Lead-Scoring - Logistic-Regression
 # X Education Lead Scoring & Intern Strategy
 
 ## Overview
